@@ -28,4 +28,4 @@ You can view a live demo of the project [here](https://your-demo-link.com).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/interactive-login-page.git
+   git clone https://github.com/Onismflaneur/interactive-login-page.git
